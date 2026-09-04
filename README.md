@@ -8,5 +8,6 @@
 комфорта, а также статистически значимые различия по странам, климату и полу.
 Результаты представил в дашборде и сформулировал рекомендации по настройке
 оборудования, сервисному обслуживанию и региональной стратегии инвестиций.
-Стек технологий: Python (Pandas, NumPy, Matplotlib, Seaborn, sklearn, SciPy),
+
+**Стек технологий:** Python (Pandas, NumPy, Matplotlib, Seaborn, sklearn, SciPy),
 Jupyter Notebook, Yandex DataLens, Figma.
